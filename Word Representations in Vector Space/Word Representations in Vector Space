@@ -1,0 +1,5 @@
+This file is contained of two python codes. 
+The CBOWtest.py is the implementation of Continuous Bag of Words.The dataset used for this model is shakespeare.txt 
+Skipgram.py is the implementation of the Continuous Skip-gram Model. The dataset used for this model is shakespeare2.txt 
+the implementations are based on the paper: "Efficient Estimation of Word Representations in Vector Space"
+
