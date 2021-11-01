@@ -1,1 +1,2 @@
-hh
+The Neural Machine Translation is implemented by the Transformer, based solely on attention mechanisms, dispensing with recurrence and convolutions entirely
+the Transformer architecture is based on paper entitled: "Attention Is All You Need"
